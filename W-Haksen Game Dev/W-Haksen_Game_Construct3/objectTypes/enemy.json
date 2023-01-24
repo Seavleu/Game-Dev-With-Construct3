@@ -1,0 +1,179 @@
+{
+	"name": "enemy",
+	"plugin-id": "Sprite",
+	"sid": 352401965174045,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "hp",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 899919632662526
+		},
+		{
+			"name": "dir",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 494014371393640
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 945062596858764
+		},
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 244449269324652
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 16,
+						"height": 16,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9877508,
+						"collisionPoly": {
+							"points": [
+								0.4375,
+								0.4375,
+								0.5,
+								0.4375,
+								0.5,
+								0.4375,
+								0.875,
+								0.5,
+								0.8125,
+								0.8125,
+								0.5,
+								0.9375,
+								0.125,
+								0.8125,
+								0.125,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 16,
+						"height": 16,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3412153,
+						"collisionPoly": {
+							"points": [
+								0.25,
+								0.25,
+								0.5,
+								0.1875,
+								0.6875,
+								0.25,
+								0.9375,
+								0.5,
+								0.75,
+								0.75,
+								0.5,
+								0.9375,
+								0.1875,
+								0.75,
+								0,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 16,
+						"height": 16,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3258659,
+						"collisionPoly": {
+							"points": [
+								0.1875,
+								0.1875,
+								0.5,
+								0.0625,
+								0.75,
+								0.1875,
+								0.875,
+								0.5,
+								0.75,
+								0.75,
+								0.5,
+								0.75,
+								0.1875,
+								0.75,
+								0.0625,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 16,
+						"height": 16,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9900193,
+						"collisionPoly": {
+							"points": [
+								0.25,
+								0.25,
+								0.5,
+								0.125,
+								0.6875,
+								0.25,
+								0.9375,
+								0.5,
+								0.75,
+								0.75,
+								0.5,
+								0.875,
+								0.125,
+								0.8125,
+								0,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 911588603510204,
+				"name": "Enemy",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 10
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"name": "imageremovebgpreview2",
+	"plugin-id": "Sprite",
+	"sid": 196491629071649,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 384,
+						"height": 384,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5837508,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 384,
+						"height": 384,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2738105,
+						"collisionPoly": {
+							"points": [
+								0.296875,
+								0.296875,
+								0.5,
+								0.265625,
+								0.7942708333333334,
+								0.203125,
+								0.9739583333333334,
+								0.5,
+								0.6770833333333334,
+								0.6770833333333334,
+								0.5,
+								0.7083333333333334,
+								0.2578125,
+								0.7395833333333334,
+								0.0078125,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 214930279497063,
+				"name": "Default",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 2
+			}
+		],
+		"subfolders": []
+	}
+}

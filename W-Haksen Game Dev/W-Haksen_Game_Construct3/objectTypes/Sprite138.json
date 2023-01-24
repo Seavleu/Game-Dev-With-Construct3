@@ -1,0 +1,121 @@
+{
+	"name": "Sprite138",
+	"plugin-id": "Sprite",
+	"sid": 433678209903885,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 32,
+						"height": 25,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 981500,
+						"collisionPoly": {
+							"points": [
+								0.03125,
+								0.04,
+								0.5,
+								0.04,
+								0.9375,
+								0.04,
+								0.96875,
+								0.5,
+								0.96875,
+								0.96,
+								0.5,
+								0.96,
+								0,
+								0.96,
+								0,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 32,
+						"height": 25,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8947391,
+						"collisionPoly": {
+							"points": [
+								0.03125,
+								0.04,
+								0.5,
+								0.04,
+								0.9375,
+								0.04,
+								0.96875,
+								0.5,
+								0.96875,
+								0.96,
+								0.5,
+								0.96,
+								0,
+								0.96,
+								0,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 32,
+						"height": 25,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2305128,
+						"collisionPoly": {
+							"points": [
+								0.03125,
+								0.04,
+								0.5,
+								0,
+								0.9375,
+								0.04,
+								0.96875,
+								0.5,
+								0.96875,
+								0.96,
+								0.5,
+								0.96,
+								0.03125,
+								0.92,
+								0.03125,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 863884437365321,
+				"name": "Default",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 2
+			}
+		],
+		"subfolders": []
+	}
+}

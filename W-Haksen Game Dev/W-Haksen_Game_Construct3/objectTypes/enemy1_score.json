@@ -1,0 +1,17 @@
+{
+	"name": "enemy1_score",
+	"plugin-id": "Text",
+	"sid": 125624452861852,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Score",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 852584416536246
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": []
+}

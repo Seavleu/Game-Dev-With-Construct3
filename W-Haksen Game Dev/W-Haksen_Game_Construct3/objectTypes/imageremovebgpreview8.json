@@ -1,0 +1,37 @@
+{
+	"name": "imageremovebgpreview8",
+	"plugin-id": "Sprite",
+	"sid": 948718591587739,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 152,
+						"height": 30,
+						"originX": 0.4473684210526316,
+						"originY": 1.6166666666666667,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3141465,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 647452589327910,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

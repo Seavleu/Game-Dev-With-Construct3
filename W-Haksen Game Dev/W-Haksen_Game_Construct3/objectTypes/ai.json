@@ -1,0 +1,37 @@
+{
+	"name": "ai",
+	"plugin-id": "Sprite",
+	"sid": 520895159321978,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 330,
+						"height": 29,
+						"originX": 0.4484848484848485,
+						"originY": 0.7758620689655172,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 170436,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 526487711008561,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

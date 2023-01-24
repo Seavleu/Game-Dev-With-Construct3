@@ -1,0 +1,93 @@
+{
+	"name": "Sprite18",
+	"plugin-id": "Sprite",
+	"sid": 786400590544978,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "shadowcaster",
+			"name": "ShadowCaster",
+			"sid": 380736376472982
+		},
+		{
+			"behaviorId": "Anchor",
+			"name": "Anchor",
+			"sid": 517611634112553
+		},
+		{
+			"behaviorId": "Fade",
+			"name": "Fade",
+			"sid": 217710003331152
+		},
+		{
+			"behaviorId": "Flash",
+			"name": "Flash",
+			"sid": 549347669196402
+		},
+		{
+			"behaviorId": "scrollto",
+			"name": "ScrollTo",
+			"sid": 769081423956457
+		},
+		{
+			"behaviorId": "jumpthru",
+			"name": "Jumpthru",
+			"sid": 305495766967239
+		},
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 699701645250743
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 64,
+						"height": 64,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8668380,
+						"collisionPoly": {
+							"points": [
+								0.328125,
+								0.328125,
+								0.5,
+								0.15625,
+								0.703125,
+								0.28125,
+								0.734375,
+								0.5,
+								0.8125,
+								0.8125,
+								0.5,
+								0.8125,
+								0.171875,
+								0.8125,
+								0.109375,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 411995933595849,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"name": "removebgpreview",
+	"plugin-id": "Sprite",
+	"sid": 218533611390291,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 92,
+						"height": 31,
+						"originX": 0.31521739130434784,
+						"originY": 0.7903225806451613,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 1672029,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 607349546563928,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
