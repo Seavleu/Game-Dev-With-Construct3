@@ -1,5 +1,4 @@
 # Game Dev With Construct3
- Make sure to download all the asset before running the file
+Download and Run W-Haksen.c3p on Construct 3 (https://www.construct.net/en)
 
-
-Watch Project video here: https://jennyheang.com/profolio.html 
+Watch game demo: https://www.youtube.com/watch?v=VwedcCuFW-M&t=1s
